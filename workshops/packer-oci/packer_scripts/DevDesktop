@@ -1,10 +1,10 @@
   { 
-      "my.user_ocid":"pasteYourUserOCID",
-      "my.tenancy_ocid": "pasteYourTenancyOCID",
-      "my.fingerprint":"pasteYourFingprint",
-      "my.availability_domain": "pasteYourAvailbilityDomain",
-      "my.region": "us-ashburn-1",
-      "my.compartment_ocid": "pasteYourCompartmentOCID",
-      "my.subnet_ocid": "pasteYourSubnetsOCID",
+      "my.user_ocid":"ocid1.user.oc1..aaaaaaaavgefitmhvi6ivim456pyavohmuzwo3w72zdnnq53onh6mwt3itfa",
+      "my.tenancy_ocid": "ocid1.tenancy.oc1..aaaaaaaangojp2et4m4mduei2ry2kl2typsrx3opcs2pfom33uxp3obcydla",
+      "my.fingerprint":"21:d6:39:1d:59:37:09:15:be:d6:83:c7:1c:61:40:4f",
+      "my.availability_domain": "vKEV:SA-SAOPAULO-1-AD-1",
+      "my.region": "sa-saopaulo-1",
+      "my.compartment_ocid": "ocid1.compartment.oc1..aaaaaaaaxeqmanxa6hj2y4pkwrnvh2dp7jlqqi4oxf7cxc7kw6lt3du2xtwa",
+      "my.subnet_ocid": "ocid1.vcn.oc1.sa-saopaulo-1.amaaaaaapbgtqxyafda7vi5unlxabbb7zbfmv6grab4qohv4ovh35unpmkiq",
       "my.base_image_ocid": "ocid1.image.oc1.iad.aaaaaaaarsu56scul4muz3sqbptvykipy2rn6re3wzdjvncgcpgqt5cp3wja"
     }
